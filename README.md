@@ -7,7 +7,7 @@
 
 ### 🛠 Мой технологический стэк
 
-- **Backend:** .Net Core 9/10, ASP.NET Web API, MediatR (CQRS).
+- **Backend:** .Net Core, .NET Framework, ASP.NET Web API, MediatR (CQRS).
 -  **Архитектура:** Clean Architecture, DDD (Rich Domain Модели), SOLID, DRY, KISS.
 -   **Паттерны:** Repository, UnitOfWork, Specification, Builder.
 -   **Базы данных:** PostgreSQL (основная), Entity Framework Core, Redis (Caching).
