@@ -37,7 +37,7 @@
 ### 📫 Как со мной связаться
 
 -   **Vk:** https://vk.com/id391950409
--   **Telegram:** https://t.me/Yaroslav_Kudashov
+-   **Telegram:** https://t.me/Yaaroslav_Kudashov
 -   **Email:** kudasovaroslav27@gmail.com
 -   **Номер:** +7(993) 087 58 00 
 
